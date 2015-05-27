@@ -1,2 +1,2 @@
 # RegexTest
-正则表达式测试工具
+正则表达式测试工具 for Android
